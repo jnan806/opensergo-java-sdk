@@ -15,7 +15,7 @@
  */
 package io.opensergo.util;
 
-import io.opensergo.proto.common.v1.TimeUnit;
+import io.opensergo.protocol.grpc.common.v1.TimeUnit;
 
 /**
  * @author Eric Zhao
